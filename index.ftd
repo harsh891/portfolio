@@ -215,11 +215,11 @@ link: https://twitter.com/YOUR_TWITTER_USERNAME
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/harsh891
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://www.instagram.com/harshbhanushali15672/
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
